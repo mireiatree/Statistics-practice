@@ -1,15 +1,21 @@
 # Statistics Practice
 
-# Description:
-Repository for practicing statistical methods and theory.
+## Overview
+This repository contains my practice work for core statistics concepts, essential for data analytics and machine learning.
 
-# Contents:
-- Jupyter Notebooks 
-- Probability distributions, hypothesis tests, etc.
+## Tools Used
+- Python
+- Pandas
+- Scipy
+- Matplotlib
+- Jupyter Notebook
 
-# Tools Used:
-- Python 
-- NumPy, SciPy, Matplotlib (if Python)
+## Topics Practiced
+- Descriptive Statistics (mean, median, mode, standard deviation)
+- Probability distributions
+- Hypothesis testing
+- Confidence intervals
+- Correlation and regression analysis
 
-# Purpose:
-Solidify understanding of key statistics concepts.
+## Purpose
+Build a strong statistical foundation for analyzing and interpreting data in real-world contexts.
